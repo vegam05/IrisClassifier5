@@ -5,7 +5,7 @@ cd IrisClassifier5
 pip install -r requirements.txt
 ```
 Then run all codeblocks of ```driver.ipynb```
-This will generate/overwrite 3 files: iris_classification_model.h5( the trained model) and classes.npy(numpy file having various flower classes to be used by streamlit)
+This will generate/overwrite 2 files: iris_classification_model.h5( the trained model) and classes.npy(numpy file having various flower classes to be used by streamlit)
 Then run:
 ```
 streamlit run irisClassifier.py
