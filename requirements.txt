@@ -1,0 +1,5 @@
+streamlit==latest_version
+numpy==latest_version
+scikit-learn==latest_version
+pandas==latest_version
+tensorflow==latest_version
